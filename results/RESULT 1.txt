@@ -1,0 +1,87 @@
+RESULT 1
+--------
+
+               Predicted
+             |  0   |   1
+         -----------------
+Actual   0   | TN   |  FP
+         1   | FN   |  TP
+
+
+Hybrid Model
+------------
+
+[1000 samples]
+
+Precision: 0.8450
+Recall:    0.9920
+F1 Score:  0.9126
+
+
+[2000 samples]
+
+Precision: 0.8454
+Recall:    0.9950
+F1 Score:  0.9141
+
+
+[4000 samples]
+
+Precision: 0.8435
+Recall:    0.9970
+F1 Score:  0.9138
+
+
+[8000 samples]
+
+Precision: 0.8411
+Recall:    0.9978
+F1 Score:  0.9128
+
+
+[16000 samples]
+
+Precision: 0.8442
+Recall:    0.9962
+F1 Score:  0.9139
+
+
+
+
+
+Enhanced Model
+--------------
+
+[1000 samples]
+
+Precision: 0.8581
+Recall:    0.9920
+F1 Score:  0.9202
+
+
+[2000 samples]
+
+Precision: 0.8548
+Recall:    0.9950
+F1 Score:  0.9196
+
+
+[4000 samples]
+
+Precision: 0.8525
+Recall:    0.9970
+F1 Score:  0.9191
+
+
+[8000 samples]
+
+Precision: 0.8497
+Recall:    0.9978
+F1 Score:  0.9178
+
+
+[16000 samples]
+
+Precision: 0.8535
+Recall:    0.9962
+F1 Score:  0.9194

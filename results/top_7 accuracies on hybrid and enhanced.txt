@@ -1,0 +1,167 @@
+Hybrid Model
+------------
+
+[1000 samples]
+
+Fold Accuracy: 0.8950
+Fold Accuracy: 0.9250
+Fold Accuracy: 0.9300
+Fold Accuracy: 0.9250
+Fold Accuracy: 0.8800
+
+Cross-Validation Results:
+Mean Accuracy: 91.10%
+Std Deviation: 1.98%
+
+Precision: 0.8489
+Recall:    1.0000
+F1 Score:  0.9183
+
+[2000 samples]
+
+Fold Accuracy: 0.9075
+Fold Accuracy: 0.9125
+Fold Accuracy: 0.9275
+Fold Accuracy: 0.8925
+Fold Accuracy: 0.9050
+
+Cross-Validation Results:
+Mean Accuracy: 90.90%
+Std Deviation: 1.14%
+
+Precision: 0.8466
+Recall:    0.9990
+F1 Score:  0.9165
+
+[4000 samples]
+
+Fold Accuracy: 0.9150
+Fold Accuracy: 0.8988
+Fold Accuracy: 0.9038
+Fold Accuracy: 0.9125
+Fold Accuracy: 0.8988
+
+Cross-Validation Results:
+Mean Accuracy: 90.58%
+Std Deviation: 0.68%
+
+Precision: 0.8431
+Recall:    0.9970
+F1 Score:  0.9136
+
+[8000 samples]
+
+Fold Accuracy: 0.8975
+Fold Accuracy: 0.9012
+Fold Accuracy: 0.9025
+Fold Accuracy: 0.9150
+Fold Accuracy: 0.9150
+
+Cross-Validation Results:
+Mean Accuracy: 90.62%
+Std Deviation: 0.73%
+
+Precision: 0.8449
+Recall:    0.9952
+F1 Score:  0.9139
+
+[16000 samples]
+
+Fold Accuracy: 0.9103
+Fold Accuracy: 0.9012
+Fold Accuracy: 0.9003
+Fold Accuracy: 0.9156
+Fold Accuracy: 0.9047
+
+Cross-Validation Results:
+Mean Accuracy: 90.64%
+Std Deviation: 0.58%
+
+Precision: 0.8449
+Recall:    0.9956
+F1 Score:  0.9141
+
+
+Enhanced Model
+--------------
+
+[1000 samples]
+
+Fold Accuracy: 0.9050
+Fold Accuracy: 0.9350
+Fold Accuracy: 0.9300
+Fold Accuracy: 0.9300
+Fold Accuracy: 0.8900
+
+Cross-Validation Results:
+Mean Accuracy: 91.80%
+Std Deviation: 1.75%
+
+Precision: 0.8591
+Recall:    1.0000
+F1 Score:  0.9242
+
+[2000 samples]
+
+Fold Accuracy: 0.9100
+Fold Accuracy: 0.9225
+Fold Accuracy: 0.9400
+Fold Accuracy: 0.8975
+Fold Accuracy: 0.9175
+
+Cross-Validation Results:
+Mean Accuracy: 91.75%
+Std Deviation: 1.41%
+
+Precision: 0.8590
+Recall:    0.9990
+F1 Score:  0.9237
+
+[4000 samples]
+
+Fold Accuracy: 0.9200
+Fold Accuracy: 0.9062
+Fold Accuracy: 0.9137
+Fold Accuracy: 0.9163
+Fold Accuracy: 0.9137
+
+Cross-Validation Results:
+Mean Accuracy: 91.40%
+Std Deviation: 0.45%
+
+Precision: 0.8551
+Recall:    0.9970
+F1 Score:  0.9206
+
+[8000 samples]
+
+Fold Accuracy: 0.9044
+Fold Accuracy: 0.9081
+Fold Accuracy: 0.9119
+Fold Accuracy: 0.9206
+Fold Accuracy: 0.9244
+
+Cross-Validation Results:
+Mean Accuracy: 91.39%
+Std Deviation: 0.75%
+
+Precision: 0.8559
+Recall:    0.9952
+F1 Score:  0.9204
+
+[16000 samples]
+
+Fold Accuracy: 0.9184
+Fold Accuracy: 0.9097
+Fold Accuracy: 0.9069
+Fold Accuracy: 0.9213
+Fold Accuracy: 0.9122
+
+Cross-Validation Results:
+Mean Accuracy: 91.37%
+Std Deviation: 0.54%
+
+Precision: 0.8554
+Recall:    0.9956
+F1 Score:  0.9202
+

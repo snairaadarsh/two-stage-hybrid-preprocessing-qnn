@@ -1,0 +1,18 @@
+Different Dataset
+-----------------
+
+[20k samples - DrDos or Benign]
+
+Fold Accuracy: 0.9533
+Fold Accuracy: 0.9565
+Fold Accuracy: 0.9515
+Fold Accuracy: 0.9555
+Fold Accuracy: 0.9577
+
+Cross-Validation Results:
+Mean Accuracy: 95.49%
+Std Deviation: 0.23%
+
+Precision: 0.9974
+Recall:    0.9122
+F1 Score:  0.9529

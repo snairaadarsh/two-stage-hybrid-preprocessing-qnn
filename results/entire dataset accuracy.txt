@@ -1,0 +1,115 @@
+Hybrid Model (whole dataset)
+------------
+
+[Unbalanced]
+
+Fold Accuracy: 0.7964
+Fold Accuracy: 0.7969
+Fold Accuracy: 0.7951
+Fold Accuracy: 0.7957
+Fold Accuracy: 0.7956
+
+Cross-Validation Results:
+Mean Accuracy: 79.60%
+Std Deviation: 0.07%
+
+Precision: 0.5276
+Recall:    0.9997
+F1 Score:  0.6907
+
+[Balanced attack and benign]
+
+Fold Accuracy: 0.9055
+Fold Accuracy: 0.9030
+Fold Accuracy: 0.9032
+Fold Accuracy: 0.9039
+Fold Accuracy: 0.9011
+
+Cross-Validation Results:
+Mean Accuracy: 90.34%
+Std Deviation: 0.14%
+
+Precision: 0.8403
+Recall:    0.9960
+F1 Score:  0.9115
+
+[Balanced attack and benign + balanced attack types]
+
+
+Fold Accuracy: 0.9237
+Fold Accuracy: 0.9244
+Fold Accuracy: 0.9253
+Fold Accuracy: 0.9235
+Fold Accuracy: 0.9249
+
+Cross-Validation Results:
+Mean Accuracy: 92.43%
+Std Deviation: 0.07%
+
+Precision: 0.8690
+Recall:    0.9994
+F1 Score:  0.9296
+
+
+Enhanced Model (whole dataset)
+-------------
+
+[Unbalanced]
+
+Fold Accuracy: 0.7964
+Fold Accuracy: 0.7969
+Fold Accuracy: 0.7950
+Fold Accuracy: 0.7957
+Fold Accuracy: 0.7956
+
+Cross-Validation Results:
+Mean Accuracy: 79.59%
+Std Deviation: 0.07%
+
+Precision: 0.5276
+Recall:    0.9996
+F1 Score:  0.6906
+
+[Balanced attack and benign]
+
+Fold Accuracy: 0.9138
+Fold Accuracy: 0.9116
+Fold Accuracy: 0.9117
+Fold Accuracy: 0.9119
+Fold Accuracy: 0.9100
+
+Cross-Validation Results:
+Mean Accuracy: 91.18%
+Std Deviation: 0.12%
+
+Precision: 0.8525
+Recall:    0.9958
+F1 Score:  0.9186
+
+[Balanced attack and benign + balanced attack types]
+
+Fold Accuracy: 0.9236
+Fold Accuracy: 0.9242
+Fold Accuracy: 0.9251
+Fold Accuracy: 0.9234
+Fold Accuracy: 0.9248
+
+Cross-Validation Results:
+Mean Accuracy: 92.42%
+Std Deviation: 0.07%
+
+Precision: 0.8689
+Recall:    0.9991
+F1 Score:  0.9295
+
+
+
+
+
+
+
+
+
+
+
+
